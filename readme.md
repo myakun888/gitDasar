@@ -11,6 +11,12 @@ diantaranya
 - config Git
 - git add
 - git commit
--  dan lainya 
+- dan lainya 
 
+materi belajar diambil dari beberapa sumber  
+terutama  
+
+*programmer zaman now*
+
+kami ucapkan terimakasih
 
